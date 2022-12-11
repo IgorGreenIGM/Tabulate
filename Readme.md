@@ -19,7 +19,7 @@
 ## ⌨ Getting started <a name = "getting_started"></a>
 
     No special installation nedded, just set your console output to utf-8 chars by adding
-    this line : <code>_setmode(_fileno(stdout), _O_U16TEXT);</code>
+    this line : `_setmode(_fileno(stdout), _O_U16TEXT);`
 
 ## ✍️ Authors <a name = "authors"></a>
 
